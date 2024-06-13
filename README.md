@@ -1,7 +1,7 @@
 
 #  Whac-A-Mole Game
 
-Welcome to my Mario-themed Whac-A-Mole game! This project brings the classic arcade fun to life using HTML, CSS, and JavaScript.
+ This project brings the classic arcade fun to life using HTML, CSS, and JavaScript.
 
 ## Features
 
