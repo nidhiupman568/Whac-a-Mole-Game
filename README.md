@@ -2,6 +2,8 @@
 
 🎉This project brings the classic arcade fun to life using 🌐 HTML, 🎨 CSS, and 💻 JavaScript. 🚀
 
+Project Demo: https://nidhiupman568.github.io/Whac-a-Mole-Game/
+
 ## Features 🌟
 
 - **Dynamic Game Board 🕹️**: The game board is dynamically set using JavaScript and DOM manipulation. 🖼️
